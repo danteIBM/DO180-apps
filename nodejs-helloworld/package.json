@@ -2,5 +2,13 @@
   "name": "nodejs-helloworld",
    "dependencies": {
   "express": "4.14.x"
+  "descriptions" : "Hello World!",
+  "main": "app.js",
+  "scripts": {
+  "start": "nodeapp.js"
+  
   }
+ },
+"aurthor": "Red Hat Training:,
 }
+   
